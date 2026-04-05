@@ -3,7 +3,7 @@
 `square-biomes` is a Fabric mod for Minecraft `1.21.11` that forces biome generation into a strict square grid.
 
 <p align="center">
-  <img src="square-biomes.png" alt="square-biomes preview" width="720">
+  <img src="square-biomes.png" alt="square-biomes preview" width="400">
 </p>
 
 Each biome is assigned per grid cell, so biome borders become clean square lines instead of natural curves. The mod can also randomize biome selection heavily, making overworld maps feel more like a biome checkerboard while still keeping square boundaries.
