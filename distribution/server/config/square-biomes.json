@@ -1,0 +1,5 @@
+{
+  "gridSizeBlocks": 128,
+  "cellJitter": 0.85,
+  "randomBiomeChance": 0.8
+}
