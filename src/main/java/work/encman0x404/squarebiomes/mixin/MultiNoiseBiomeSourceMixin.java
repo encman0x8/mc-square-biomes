@@ -3,6 +3,7 @@ package work.encman0x404.squarebiomes.mixin;
 import com.mojang.datafixers.util.Pair;
 import work.encman0x404.squarebiomes.SquareBiomesConfig;
 import work.encman0x404.squarebiomes.SquareBiomesMod;
+import work.encman0x404.squarebiomes.SourceKind;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.core.Holder;
 import net.minecraft.world.level.biome.Biome;
@@ -161,11 +162,5 @@ abstract class MultiNoiseBiomeSourceMixin {
                 }
             }
         }
-    }
-
-    private enum SourceKind {
-        OVERWORLD,
-        NETHER,
-        OTHER
     }
 }
